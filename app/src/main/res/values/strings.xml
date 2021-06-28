@@ -1,0 +1,129 @@
+<resources>
+    <string name="app_name">Arogyasetu-2</string>
+    <string name="not_register_signUp_here">Sign-up Here</string>
+    <string name="signIn">Sign-in</string>
+    <string name="enter_password">Enter Password           </string>
+    <string name="enter_your_mail">Enter your Mail         </string>
+    <string name="already_register_signIn_here">Already Register?? SignIn here or try different way</string>
+    <string name="signUp">Sign-up</string>
+    <string name="enter_your_mail_to_register">Enter your Mail to Register</string>
+    <string name="conform_password">Conform Password</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="facebook_app_id">2792783210982928</string>
+    <string name="fb_login_protocol_scheme">fb2792783210982928</string>
+    <string name="logout">Logout</string>
+    <string name="longitude">Longitude</string>
+    <string name="latitude">Latitude</string>
+    <string name="Statistics">Statistics</string>
+    <string name="notInDangerZone">Are you in danger zone</string>
+    <string name="about_me">About me:</string>
+    <string name="aboutMe"> Name: \nGoradia Nishant.S.\n
+                                    \nBirth-Date:10-08-2000
+                                   \n\nStudent at Ganpat University.
+    </string>
+    <string name="info">This is application is developed by me and guided by Manan Thakkar Prof. at Ganpat University.\n \nThis app gives info of covid-19 disease
+                        it can give you the info of either you are in denger zone or not. \n
+        \nThe references which i have taken help to develop this app are:\n
+        -google firebase \n -youtube \n -stackoverflow\n
+       \n FOR ANY QUERY CONTACT EMAIL:-\n
+       \t\t goradianishant2000@gmail.com\n
+        \n\t\t\t\t\t\t !!!HOPE YOU LIKE THE APP!!!
+    </string>
+    <string name="emergencyInfo">Emergency Info</string>
+    <string name="additional_info">additional info</string>
+    <string name="go_to_main_screen">Get Registered</string>
+    <string name="make_country_corona_free">Make country Corona Free</string>
+    <string name="register_with_your_mail">Register With Your Mail</string>
+    <string name="feedback">Feedback</string>
+    <string name="select_your_topic">Select your topic</string>
+    <string name="send_feedback">send feedback</string>
+    <string name="would_you_like_an_email_response">would you like an email response</string>
+    <string name="feedbackMail">feedback-email</string>
+    <string name="write_your_complaint_or_feedback">Write your Complaint or feedback</string>
+    <string name="feedbackName">feedback-name</string>
+
+    <string name="feedbackType1">Content Related</string>
+    <string name="feedbackType2">Complains regarding Covid-19</string>
+    <string name="feedbackType3">Government Related</string>
+    <string name="feedbackType4">Help!! Related</string>
+    <string name="donate">Donate!!!</string>
+    <string name="forgot_password">Forgot password???</string>
+    <string name="enter_mail_to_recover_password">Enter mail to recover password</string>
+    <string name="recover">Recover</string>
+    <string name="not_register">Not Register ??</string>
+    <string name="communication">Communication</string>
+
+    <string name="home">Home</string>
+    <string name="track_location">Track Location</string>
+    <string name="arogyasetu_2">Arogyasetu 2</string>
+    <string name="dashboard">dashboard</string>
+
+    <string name="news_feeds">News Feeds</string>
+    <string name="covid19">COVID-19</string>
+    <string name="feedback_block">Feedback Block</string>
+    <string name="Top_News"> Top News</string>
+
+
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="facebook">facebook</string>
+    <string name="todo">TODO</string>
+    <string name="make_world_corona_free">Make world Corona Free</string>
+    <string name="letsBegin">Lets Begin !!</string>
+    <string name="already_registered">Already Registered??</string>
+    <string name="show_data">Show Data</string>
+    <string name="name">Name</string>
+    <string name="todo777">TODO</string>
+    <string name="continue_with_facebook_or_google">continue with facebook or google</string>
+    <string name="symptom_checker">Symptom Checker</string>
+    <string name="baised_of_common_symptom">Based of common Symptom</string>
+    <string name="user_details">We can Fight Against any situation</string>
+    <string name="help_the_needy">Help the needy!!!!!</string>
+    <string name="needy">You can donate what ever amount you want to , Remember many drops of water can fill water so your 1 rupees will make the needy\'s pound full !! So , go Ahead !!</string>
+    <string name="go_ahead">So , go Ahead !!</string>
+    <string name="questions">Questions</string>
+    <string name="Choice">Choice</string>
+    <string name="for_better_tomorrow">For Better Tomorrow</string>
+    <string name="already_have_an_account">Already \nhave an \nAccount?</string>
+    <string name="new_user_register_now">New user? Register Now</string>
+
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="enter_your_password">Enter Your Password</string>
+
+    <string name="here_s_your_first_step_with_nus">Here’s your first step with us!</string>
+    <string name="mobile_number">mobile</string>
+    <string name="use_other_methods">Use other Methods</string>
+    <string name="or_try_different_way_ti_login"> or try different way to login </string>
+    <string name="hear_s_your_step_to_connect_with_us">Here is your step to connect with us</string>
+    <string name="enter_amount_you_want_to_donate">Donation Amount</string>
+    <string name="data_sent">DATA SENT???</string>
+    <string name="user_name">User Name</string>
+    <string name="in_danger_zone">IN DANGER ZONE :- ??</string>
+    <string name="user_location">User Location</string>
+    <string name="add_danger_location_in_map">Add Danger Location in Map</string>
+    <string name="enter_latitude">Enter latitude</string>
+    <string name="enter_longitude">Enter Longitude </string>
+    <string name="add_location">  Add Location  </string>
+    <string name="enter_city_name">Enter City name</string>
+    <string name="entertainment_zone">Entertainment Zone</string>
+    <string-array name="feedbackTypeList">
+        <item>@string/feedbackType1</item>
+        <item>@string/feedbackType2</item>
+        <item>@string/feedbackType3</item>
+        <item>@string/feedbackType4</item>
+    </string-array>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="set_user_profile">Set User Profile</string>
+    <string name="games">Games</string>
+    <string name="change_mode">Change App Mode</string>
+    <string name="mobile_no">Mobile No.</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="change_image">Change Image</string>
+    <string name="are_you_sure_you_need_emengercy_help">Are you sure you need Emengercy help</string>
+    <string name="send_data">Send Data</string>
+    <string name="score">Score</string>
+    <string name="check_for_update">Check For Update</string>
+</resources>

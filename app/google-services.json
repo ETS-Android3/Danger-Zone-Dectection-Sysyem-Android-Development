@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "48309814553",
+    "firebase_url": "https://arogyasetu2.firebaseio.com",
+    "project_id": "arogyasetu2",
+    "storage_bucket": "arogyasetu2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48309814553:android:e48df2aa72b6cc2ee8f188",
+        "android_client_info": {
+          "package_name": "com.example.arogyasetu2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48309814553-kdto0h8r9h67f9mtsgqtjspej8bhff88.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.arogyasetu2",
+            "certificate_hash": "ed9066978b282fec58c7340ad8d753a8bb4cd46f"
+          }
+        },
+        {
+          "client_id": "48309814553-gj50rvcb167pr8h3ifu5cd40s1e6erok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR1kLLHWeaKpnl_Joad8sLGnYYUtOHPz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48309814553-gj50rvcb167pr8h3ifu5cd40s1e6erok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-5871847151775704~8582017276"
+    }
+  ],
+  "configuration_version": "1"
+}
